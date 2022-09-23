@@ -1,0 +1,86 @@
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aquamarine;
+}
+
+p {
+  font-family: roboto;
+  border: 2px solid red;
+}
+
+#cssstyle {
+  border: 2px dotted black;
+  color: red;
+  padding: 10px;
+  margin: 40px;
+  background-color: aqua;
+}
+
+#asdasd:link,
+#asdasd:visited {
+  /* margin: 60px; */
+  padding: 15px 25px;
+  background-color: brown;
+  border-radius: 5px;
+  color: wheat;
+  text-decoration: none;
+}
+
+#asdasd:hover,
+#asdasd:active {
+  background-color: red;
+  padding: 12px 22px;
+  margin-left: 3px;
+  /* margin: 63px; */
+}
+
+/* body {
+    background-image: url(images2/camera.png);
+    border-image-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+} */
+
+.tc1 {
+  background-color: #404040;
+  font-family: roboto;
+  border-radius: 3px;
+}
+
+.th1 {
+  background-color: #6f6f6f;
+  padding: 2px;
+  border-radius: 3px;
+  font-family: roboto;
+}
+
+.td1 {
+  background-color: #b5b5b5;
+  padding: 2px;
+  border-radius: 3px;
+  font-family: roboto;
+}
+
+.td1:nth-child(3) {
+  text-align: center;
+}
+
+.table2 {
+  border-collapse: collapse;
+}
+
+.th2 {
+  background-color: #6f6f6f;
+  padding: 4px;
+  font-family: roboto;
+  text-align: left;
+}
+
+.td2 {
+  padding: 4px;
+  font-family: roboto;
+}
+
+.tr2:nth-child(even) {
+  background-color: #b5b5b5;
+}
